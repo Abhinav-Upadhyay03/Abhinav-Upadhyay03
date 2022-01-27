@@ -3,7 +3,7 @@
 - I’m Abhinav Upadhyay.
 - I’m interested in beginner friendly projects in java for now.
 - I’m currently learning DSA in Java and know basics of python.
-- I’m looking forword to connect with some mentors who can guide me to start off with open source contribution.
+- I’m looking forward to connect with some mentors who can guide me to start off with open source contribution.
 
 >Networking platforms
 
