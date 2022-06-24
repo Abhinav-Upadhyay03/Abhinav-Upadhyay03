@@ -1,12 +1,20 @@
 # Hello there👋
 
 - I’m Abhinav Upadhyay.
-- I’m interested in beginner friendly projects in java for now.
-- I’m currently learning DSA in Java and know basics of python.
+- Electronics and Communication Engineering.
+- Tezpur University 25'
+- I’m interested in projects related to java, python or web dev.
+- I’m currently learning DSA in Java, Web dev, and ML.
 - I’m looking forward to connect with some mentors who can guide me to start off with open source contribution.
+
+>Leetcode Profile
+
+[Click here](https://leetcode.com/Abhinav_Upadhyay/)<br>
 
 >Networking platforms
 
+Connect with me on LinkedIn:
+[Click here](https://www.linkedin.com/in/abhinav-upadhyay-67973821b/)<br>
 My Twitter Handle: 
 [Click here](https://twitter.com/Abhinavsacc)<br>
 My Email id:
