@@ -5,6 +5,7 @@
 - Tezpur University 25'
 - I’m interested in projects related to java, python or web dev.
 - I’m currently learning DSA in Java and Web dev.
+- I have solved 250+ questions on leetcode.
 - I’m looking forward to connect with some mentors who can guide me to start off with open source contribution.
 
 >Leetcode Profile
