@@ -1,28 +1,30 @@
-# Hello there👋
+# Hello there! 👋 I'm Abhinav Upadhyay
 
-- I’m Abhinav Upadhyay.
-- Electronics and Communication Engineering.
-- Tezpur University 25'
-- I’m interested in projects related to java, python or web dev.
-- I’m currently learning DSA in Java and Web dev.
-- I have solved 250+ questions on leetcode.
-- I’m looking forward to connect with some mentors who can guide me to start off with open source contribution.
+**Electronics and Communication Engineering**  
+**Tezpur University, Class of 2025**
 
->Leetcode Profile
+---
 
-[Click here](https://leetcode.com/Abhinav_Upadhyay/)<br>
+## 🚀 About Me
 
->Networking platforms
+- 🌱 I have been focusing on **Data Structures and Algorithms (DSA)** with **Java** as my primary language. 
+- 💡 I’ve solved over **450 questions** on [LeetCode](https://leetcode.com/Abhinav_Upadhyay/) and achieved a highest global rank of **8000** in a weekly LeetCode contest.
+- 🔧 I have previously worked with **two startups** as a **Software Development Intern**, where I contributed to **full-stack projects**.
+- 🌱 Looking to **connect with mentors** for guidance on **open-source contributions** and collaborative projects.
+  
+---
 
-Connect with me on LinkedIn:
-[Click here](https://www.linkedin.com/in/abhinav-upadhyay-67973821b/)<br>
-My Twitter Handle: 
-[Click here](https://twitter.com/Abhinavsacc)<br>
-My Email id:
-abhinavupadhyay822@gmail.com<br>
+## 📈 My LeetCode Journey
+Feel free to check out my progress on **LeetCode**:  
+[LeetCode Profile](https://leetcode.com/Abhinav_Upadhyay/)
 
+---
 
-<!---
-Abhinav-Upadhyay03/Abhinav-Upadhyay03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Let's Connect!
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/abhinav-upadhyay-67973821b/)**
+- 🐦 Follow me on **[Twitter](https://twitter.com/Abhinavsacc)**
+- 📧 Reach me via **Email**: abhinavupadhyay822@gmail.com
+
+---
+
+Feel free to reach out for collaboration or just to say hi! I'm always excited to connect with like-minded individuals and explore new opportunities.
